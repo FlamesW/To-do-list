@@ -1,0 +1,4 @@
+[-] Refactoring :Search, allowing npc support to :Fling
+[-] Add Event bus system (Saved on phone)
+[-] Refactor how :ResolvePosition works and add it into :CreateDrawingV (Rename the function aswell)
+[-] Integrate CreateConfig system using Event bus system to make states configable via loading.
