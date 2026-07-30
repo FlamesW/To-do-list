@@ -1,4 +1,1 @@
 [-] Refactoring :Search, allowing npc support to :Fling
-[-] Refactor how :ResolvePosition works and add it into :CreateDrawingV (Rename the function aswell)
-[-] Improve 'Loop Manager' structure.
-[-] Think if should add a debugger.
