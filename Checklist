@@ -2,6 +2,7 @@
 [~] Add "QueueOnTeleport" logic on files to rejoin as soon as update runs and retry executing.
 [~] Reformat :Travel and fix every issue it has...
 [~] Reformat :OnUpdate and update it since its a very outdated function.
+[~] Maybe but maybe... add the complex prioritize system integration inside loop manager.
 
 * Not In Hurry~
 [~] Add Tween system that is currently wip in my phone.
