@@ -3,6 +3,14 @@
 [~] Reformat :Travel and fix every issue it has...
 [~] Reformat :OnUpdate and update it since its a very outdated function.
 [~] Maybe but maybe... add the complex prioritize system integration inside loop manager.
-
-* Not In Hurry~
+[~] Add Animation Play function.
+[~] Improve Animation logger and squeeze every bit of performance of it.
 [~] Add Tween system that is currently wip in my phone.
+[~] Add UUID Generator*, Add Depso's Fast String Builder and more string generators.
+[~] Add Number to words + words to numbers using :Fuzzy.
+[~] Add Super Intelligent contextual search.
+[~] Add :TableUnique (Table related function).
+[~] Add :IsOnWater and :IsOnGround (Both state check and raycast check).
+[~] Add more scripts and fix cobalt link, Get updated dex and more utilities, Maybe add support for an expansion of Neverlose UI.
+[~] Add UserSettings features Set and Get.
+[~] Add :PlayersInSight and :PlayerIsLooking.
