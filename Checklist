@@ -19,3 +19,8 @@
 [~] Add :IsMutual checks a friend of a friend much like a tree branch it spreads and u can choose. 1 is default 2 can look a friend of a friend's friend and that spreads beyond.
 [~] Bot control without the usage of chat commands. Maybe using websocket, or that idea I had about logging github commit.
 [~] Add more UI interfaces and modules.
+[~] Fix reset on coin bag full: if you're murderer with murderer everyone enabled dont reset, if you're sherrif with auto shoot murderer enabled don't reset.
+[~] Add getgenv().Config_Sync = true; | will automatically recallback everyone who's using the same file directory, meaning if one alt decided to rewrite its config and press "Save" it will reload itself, it won't do anything for you but it will reassign for every instance using the same directory, so that way if I farm with alts and try to rewrite i wont have to press load for every single account.
+[~] Add getgenv().Auto_Hide = true; if its enabled it will auto hide the ui on load, by default its off.
+[~] Next time allow to reveal function names and assign them to be global so you can let people use function themselves by making a side option that is synced with SetValue
+[~] Adopt me autofarm with auto trade transfer pets/coins to main alt
