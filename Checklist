@@ -6,7 +6,7 @@
 [~] Add Animation Play function.
 [~] Improve Animation logger and squeeze every bit of performance of it.
 [~] Add Tween system that is currently wip in my phone.
-[~] Add UUID Generator*, Add Depso's Fast String Builder and more string generators.
+[~] Add Depso's Fast String Builder and more string generators.
 [~] Add Number to words + words to numbers using :Fuzzy.
 [~] Add Super Intelligent contextual search.
 [~] Add :TableUnique (Table related function).
@@ -14,3 +14,8 @@
 [~] Add more scripts and fix cobalt link, Get updated dex and more utilities, Maybe add support for an expansion of Neverlose UI.
 [~] Add UserSettings features Set and Get.
 [~] Add :PlayersInSight and :PlayerIsLooking.
+[~] Add AI agents to function manager
+[~] Improve :Serverhop logic and Add contextual file data that reads with a callback, option to ensure alts don't join the same game.
+[~] Add :IsMutual checks a friend of a friend much like a tree branch it spreads and u can choose. 1 is default 2 can look a friend of a friend's friend and that spreads beyond.
+[~] Bot control without the usage of chat commands. Maybe using websocket, or that idea I had about logging github commit.
+[~] Add more UI interfaces and modules.
